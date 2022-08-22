@@ -1,5 +1,5 @@
 import "../css/index.css"
-import Pin from './images/pin.png'
+// import Pin from './images/pin.png'
 
 
 function Card(props) {
@@ -11,7 +11,7 @@ console.log(props.item)
                 </div>
                 <div className="card-details">
                    <div className="location-description">
-                        <img src={Pin} /> 
+                        <img src='./images/pin.png' /> 
                         <p>{props.item.location}</p>
                         <a href={props.item.googleMapsUrl}>View on Google Maps</a>
                     </div> 
