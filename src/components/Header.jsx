@@ -1,5 +1,5 @@
 import "../css/index.css"
-import Globe from '/public/images/globe.png'
+import Globe from './images/globe.png'
 
 function Header() {
 

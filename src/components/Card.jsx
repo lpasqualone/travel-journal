@@ -1,5 +1,5 @@
 import "../css/index.css"
-import Pin from '/public/images/pin.png'
+import Pin from './images/pin.png'
 
 
 function Card(props) {
