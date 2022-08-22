@@ -7,7 +7,7 @@ export default [
         startDate: "7 Oct, 2021",
         endDate: "11 Jan, 2021",
         description: "Highlight: cross between Na'Pali Coast tour and the coconut shrimp. Shrimp wins out though because of stingers while snorkeling",
-        imageUrl: "/public/images/Kauai.png"
+        imageUrl: "./images/Kauai.png"
     },
     {
         id: 2,
@@ -17,7 +17,7 @@ export default [
         startDate: "Aug 2020",
         endDate: "Nov 2020",
         description: "Beautiful experience, doesn't really fit a description. Without exageration, life-changing for sure, major point of growth in many areas of life. In general the most epic time!",
-        imageUrl: "/public/images/Zambia.png"
+        imageUrl: "./images/Zambia.png"
     },
     {
         id: 3,
@@ -27,7 +27,7 @@ export default [
         startDate: "1 Aug 2019",
         endDate: "31 Aug 2019",
         description: "As the title says, reset and exploration, stepping out and wandering around SE Asia, taking it all it's beauty ",
-        imageUrl: "/public/images/se-asia.png"
+        imageUrl: "./images/se-asia.png"
     },
     {
         id: 4,
@@ -37,6 +37,6 @@ export default [
         startDate: "10 Feb 2017",
         endDate: "04 Nov 2017",
         description: "The long and short: Lived abroad, shared the Gospel, made disciples, got a tattoo. Also developed a first-love of shawarma",
-        imageUrl: "/public/images/Australia.png"
+        imageUrl: "./images/Australia.png"
     },
 ]
